@@ -1,0 +1,6 @@
+Size: 10, Linear Search Time: 194 ns, Binary Search Time: 48 ns
+Size: 100, Linear Search Time: 147 ns, Binary Search Time: 47 ns
+Size: 1000, Linear Search Time: 593 ns, Binary Search Time: 25 ns
+Size: 10000, Linear Search Time: 5130 ns, Binary Search Time: 30 ns
+Size: 100000, Linear Search Time: 78644 ns, Binary Search Time: 26 ns
+Size: 1000000, Linear Search Time: 674602 ns, Binary Search Time: 44 ns
